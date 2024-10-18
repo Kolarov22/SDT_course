@@ -1,4 +1,4 @@
-package ConnectionPool.ChainOfRep;
+package ChainOfRep;
 
 public class TelephoneNotification extends NotificationService{
     @Override

@@ -1,4 +1,4 @@
-package ConnectionPool.ChainOfRep;
+package ChainOfRep;
 
 public abstract class NotificationService {
     protected NotificationService nextHandler;

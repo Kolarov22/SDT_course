@@ -1,4 +1,4 @@
-package ConnectionPool.ChainOfRep;
+package ChainOfRep;
 
 public class Logger extends NotificationService{
     public void handleEvent(SensorEvent event) {

@@ -1,4 +1,4 @@
-package ConnectionPool.ChainOfRep;
+package ChainOfRep;
 
 import java.util.Date;
 
